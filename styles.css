@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+}
+
+.personal-image {
+    width: 150px;
+}
+
+.card-div {
+    background-color: #ddebf8;
+    margin: 0px auto;
+    padding: 20px;
+    width: 400px;
+    display: flex;
+    color: #2b2839;
+    justify-content: space-around;
+    border-bottom: #d8cefe 8px solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center-info {
+    text-align: center;
+    padding: 10px;
+}
+
+.dotted-blue-border {
+    border: 1px dotted blue;
+}
